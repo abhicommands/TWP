@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: Arial, sans-serif; /* Use a nice, readable font */
+    padding: 20px; /* Add some space around the content */
+}
+
+h2 {
+    color: #333; /* Dark gray headings */
+    background-color: #ddd; /* Light gray background on headings */
+    padding: 10px; /* Add some space around the text in the headings */
+}
+
+nav a {
+    margin-right: 20px; /* Space out the navigation links */
+}
