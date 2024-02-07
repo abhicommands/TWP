@@ -1,9 +1,14 @@
 body {
-    background-color: #f0f0f0; /* Light gray background */
+    background-color: #e1f1bb; /* Light gray background */
     font-family: Arial, sans-serif; /* Use a nice, readable font */
     padding: 20px; /* Add some space around the content */
 }
+h1 {
+    color: #333; /* Dark gray headings */
+    background-color: #ec6a6a; /* Light gray background on headings */
+    padding: 20px; /* Add some space around the text in the headings */
 
+}
 h2 {
     color: #333; /* Dark gray headings */
     background-color: #ddd; /* Light gray background on headings */
