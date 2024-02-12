@@ -1,20 +1,39 @@
 body {
-    background-color: #e1f1bb; /* Light gray background */
-    font-family: Arial, sans-serif; /* Use a nice, readable font */
+    background-color: #e1f1bb; /* Light green background */
+    font-family: 'Comic Sans MS', sans-serif; /* Change font to Comic Sans for a bit of ugliness */
     padding: 20px; /* Add some space around the content */
 }
+
 h1 {
     color: #333; /* Dark gray headings */
-    background-color: #ec6a6a; /* Light gray background on headings */
+    background-color: #ec6a6a; /* Red background on headings */
     padding: 20px; /* Add some space around the text in the headings */
-
+    text-decoration: underline; /* Underline the headings for a bit of ugliness */
 }
+
 h2 {
     color: #333; /* Dark gray headings */
     background-color: #ddd; /* Light gray background on headings */
     padding: 10px; /* Add some space around the text in the headings */
+    text-decoration: underline; /* Underline the headings for a bit of ugliness */
 }
 
 nav a {
     margin-right: 20px; /* Space out the navigation links */
+    color: #00f; /* Blue links for a bit of ugliness */
+    text-decoration: none; /* Remove underline from links */
+}
+
+table {
+    width: 100%; /* Make tables full width */
+    border-collapse: collapse; /* Remove gaps between cells */
+}
+
+table, th, td {
+    border: 1px solid #000; /* Add black border to table and cells */
+}
+
+th, td {
+    padding: 10px; /* Add some space around the text in cells */
+    text-align: left; /* Left-align text in cells */
 }
