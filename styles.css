@@ -81,9 +81,3 @@ td {
   padding: 10px; /* Add some space around the text in cells */
   text-align: left; /* Left-align text in cells */
 }
-.wrapper {
-  width: 972px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px 40px;
-}
