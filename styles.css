@@ -1,12 +1,12 @@
 html {
-  font-size: 20px; /* Set the base font size to 16px */
-  line-height: 1.5; /* Set the line height to 1.5 times the font size */
+  font-size: 18px; /* Set the base font size to 16px */
+  line-height: 160%; /* Set the line height to 1.5 times the font size */
   background-color: #333; /* Dark gray text */
 }
 body {
   background-color: #e1f1bb; /* Light green background */ /* Change font to Comic Sans for a bit of ugliness */
   padding: 20px; /* Add some space around the content */
-  width: 1100px;
+  width: 970px;
   margin: 0 auto;
   font-family: Arial, sans-serif;
   border: 1px solid #9baa78;
@@ -66,7 +66,7 @@ div.Gallery {
     justify-content: center;
 }
 div.item {
-    margin: 10px; /* Adjust as needed */
+    margin: px; /* Adjust as needed */
     text-align: center; /* Center the captions */
 }
 img {
